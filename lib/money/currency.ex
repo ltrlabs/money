@@ -50,7 +50,7 @@ defmodule Money.Currency do
     BZD: %{name: "Belize Dollar",                                          symbol: "BZ$",  exponent: 2},
     CAD: %{name: "Canadian Dollar",                                        symbol: "$",    exponent: 2},
     CDF: %{name: "Congolese Franc",                                        symbol: " ",    exponent: 2},
-    CHF: %{name: "Swiss Franc",                                            symbol: "CHF",  exponent: 2},
+    CHF: %{name: "Swiss Franc",                                            symbol: "Fr",   exponent: 2},
     CLF: %{name: "Chilean Peso Unidades de fomento",                       symbol: "$",    exponent: 4},
     CLP: %{name: "Chilean Peso Unidades de fomento",                       symbol: "$",    exponent: 0},
     CNY: %{name: "Yuan Renminbi",                                          symbol: "¥",    exponent: 2},
