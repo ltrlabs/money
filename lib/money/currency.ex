@@ -59,6 +59,7 @@ defmodule Money.Currency do
     CRC: %{name: "Costa Rican Colon",                                      symbol: "₡",    exponent: 2},
     CUC: %{name: "Cuban Peso Peso Convertible",                            symbol: "₱",    exponent: 2},
     CUP: %{name: "Cuban Peso Peso Convertible",                            symbol: "₱",    exponent: 2},
+    CUS: %{name: "Custom Currency",                                        symbol: "CUS",  exponent: 2},
     CVE: %{name: "Cape Verde Escudo",                                      symbol: " ",    exponent: 0},
     CZK: %{name: "Czech Koruna",                                           symbol: "Kč",   exponent: 2},
     DJF: %{name: "Djibouti Franc",                                         symbol: " ",    exponent: 0},
